@@ -7,7 +7,7 @@ Changes color of the text "hello world"
 ### App Walk-though
 `TODO://` 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="Simulator Screen Recording - iPod touch (7th generation).gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
